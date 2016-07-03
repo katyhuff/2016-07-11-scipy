@@ -96,9 +96,9 @@ focus on what is important: writing more tests.
 
 When you run `py.test`, it will print a dot (`.`) on the screen for every test
 that passes,
-an `F` for every test that fails, and an `E` for every test were there was an
-unexpected error. In rarer situations you may also see an `S` indicating a
-skipped tests (because the test is not applicable on your system) or a `X` for a known
+an `F` for every test that fails or where there was an unexpected error.
+In rarer situations you may also see an `s` indicating a
+skipped tests (because the test is not applicable on your system) or a `x` for a known
 failure (because the developers could not fix it promptly). After the dots, pytest
 will print summary information.
 
