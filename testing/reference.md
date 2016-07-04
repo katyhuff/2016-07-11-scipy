@@ -35,7 +35,7 @@ subtitle: Reference
 -   Such a unit test is run just like any other function.
 -   **Running tests one at a time is pretty tedious.** (let's use a framework instead)
 
-## [Running Tests with Nose](05-pytest.html)
+## [Running Tests with Pytest](05-pytest.html)
 
 -   The `py.test` command collects and runs tests starting with `Test-`, `test_`, and similar names.
 -   `.` means the test passed
