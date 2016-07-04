@@ -37,7 +37,7 @@ subtitle: Reference
 
 ## [Running Tests with Pytest](05-pytest.html)
 
--   The `py.test` command collects and runs tests starting with `Test-`, `test_`, and similar names.
+-   The `py.test` command collects and runs tests starting with `Test` or `test_`.
 -   `.` means the test passed
 -   `F` means the test failed or erred
 -   `x` is a known failure
