@@ -13,6 +13,13 @@ original by [Justin Kitzes](https://github.com/jkitzes/datasci-lessons/blob/gh-p
 > Notebook although it can be taught through any Python interpreter. The commands in this
 > this lesson pertain to Python 3.
 
+
+The first step will be to make sure you have cloned the repository:
+
+```
+git clone https://github.com/katyhuff/2016-07-11-scipy
+```
+
 ## Topics
 
 0.  [Introduction To Python](00-python-intro.html)
